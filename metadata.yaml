@@ -1,0 +1,31 @@
+_repo: Meteorologyor-Weather-Explained_38928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38928-h/images/cover.jpg
+creator:
+  author:
+    agent_name: M'Pherson, J. G. (John Gordon)
+    aliases:
+    - MacPherson, J. G. (John Gordon)
+    - McPherson, J. G. (John Gordon)
+    - M'Pherson, John Gordon
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '39720'
+    url: http://www.gutenberg.org/2009/agents/39720
+description: ''
+gutenberg_issued: '2012-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38928'
+  lccn: '31010539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meteorology'
+- !lcc 'QC'
+title: Meteorology; or, Weather Explained
+url: http://www.gutenberg.org/ebooks/38928
